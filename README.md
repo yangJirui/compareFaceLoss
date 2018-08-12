@@ -14,8 +14,8 @@ I only do some "toy experiments" with mnist and compare the performance by visua
 
 2、cosLoss
 s = 24. m = 0.2. The visualization is amazing !
-![1](./data/PNGs/cosFace_not_norm.png)
-![2](./data/PNGs/cosFace_norm.png)
+![3](./data/PNGs/cosFace_not_norm.png)
+![4](./data/PNGs/cosFace_norm.png)
 
 
 3、More Face Losses ...
